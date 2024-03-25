@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ygtcet
-- 👀 I’m interested in python, HTML, CSS, Javascript, Java, C++, MATLAB
-- 🌱 I’m currently learning HTML, CSS, Javascript & python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python, HTML, CSS, Javascript, C++
+- 🌱 I’m currently learning Assembly
 - 📫 How to reach me 
   - ygtcet2021@gmail.com
 
